@@ -1,4 +1,7 @@
-# test coverage for  [svg2ttf (v4.0.2)](https://github.com/fontello/svg2ttf#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-svg2ttf.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-svg2ttf) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-svg2ttf.svg)](https://travis-ci.org/npmtest/node-npmtest-svg2ttf)
+# npmtest-svg2ttf
+
+#### basic test coverage for  [svg2ttf (v4.0.2)](https://github.com/fontello/svg2ttf#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-svg2ttf.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-svg2ttf) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-svg2ttf.svg)](https://travis-ci.org/npmtest/node-npmtest-svg2ttf)
+
 #### Converts SVG font to TTF font
 
 [![NPM](https://nodei.co/npm/svg2ttf.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/svg2ttf)
